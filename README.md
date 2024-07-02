@@ -211,6 +211,42 @@ Demo：
 }
 ```
 
+### 2.3 Reprint
+- **API Description：** Reprint 
+- **Path：** /typeplate/reprint
+- **Method:** Get
+
+#### 2.3.1 Request Parameter
+  
+```
+/path?popId=2&chassisNo=12...
+
+```
+
+
+#### 2.2.2 Response
+
+Name						|DataType		|Required	|Comments 
+:----						|:---		|:------	|:---	
+Code						|int		|R			|Code
+Msg							|string		|R			|&nbsp;
+Status                      |bool       |R          |Status
+Data						|object		|R			|&nbsp;
+&emsp;				|bool		|R			|&nbsp;
+
+Demo：
+
+```
+{
+    "Code":200,
+    "Msg":"Post Successful",
+    "Status":true,
+    "Data":{
+        
+    }
+}
+```
+
 ## 3 Appendix Http Code
 
 Code	|Description 
