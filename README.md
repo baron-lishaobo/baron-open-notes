@@ -153,7 +153,7 @@ Code						|int		|R			|Code
 Msg							|string		|R			|&nbsp;
 Status                      |bool       |R          |Status
 Data						|object		|R			|&nbsp;
-&emsp;				|bool		|R			|&nbsp;
+
 
 Demo：
 
@@ -196,7 +196,6 @@ Code						|int		|R			|Code
 Msg							|string		|R			|&nbsp;
 Status                      |bool       |R          |Status
 Data						|object		|R			|&nbsp;
-&emsp;				|bool		|R			|&nbsp;
 
 Demo：
 
@@ -232,7 +231,7 @@ Code						|int		|R			|Code
 Msg							|string		|R			|&nbsp;
 Status                      |bool       |R          |Status
 Data						|object		|R			|&nbsp;
-&emsp;				|bool		|R			|&nbsp;
+
 
 Demo：
 
